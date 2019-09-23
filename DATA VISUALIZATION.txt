@@ -1,0 +1,3 @@
+.\fluentdna --fasta="DDV/example_data/DNA.fasta" --runserver
+
+.\fluentdna --fasta="DDV/example_data/Mutated.fasta" --runserver
