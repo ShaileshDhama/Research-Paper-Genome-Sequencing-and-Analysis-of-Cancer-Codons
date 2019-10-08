@@ -14,8 +14,8 @@ Citing
 @misc{Shailesh:2019,
   Author = {ShaileshDhama},
   Title = {Research Paper-Genome Sequencing and Analysis of Cancer Codons},
-  Year = {2018-2019},
+  Year = {2019},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url {github.com/ShaileshDhama/Research-Paper-Genome-Sequencing-and-Analysis-of-Cancer-Codons}}
+  Howpublished = {\url{https://github.com/ShaileshDhama/Research-Paper-Genome-Sequencing-and-Analysis-of-Cancer-Codons}}
   }
