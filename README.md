@@ -14,7 +14,7 @@ In this paper, We increase the efficiency of finding mutations with primary tech
 
 ```
 @misc{Shailesh:2019,
-  Author = {ShaileshDhama},
+  Author = {Shailesh Dhama},
   Title = {Research-Paper-Genome-Sequencing-and-Analysis-of-Cancer-Codons},
   Year = {2019},
   Publisher = {GitHub},
