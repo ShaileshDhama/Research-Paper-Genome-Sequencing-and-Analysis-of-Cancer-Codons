@@ -17,5 +17,6 @@ Citing
   Year = {2019},
   Publisher = {GitHub},
   Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/ShaileshDhama/Research-Paper-Genome-Sequencing-and-Analysis-of-Cancer-Codons}}
+  Howpublished = {\url{https://github.com/ShaileshDhama/Research-Paper-Genome-Sequencing-and-Analysis-of-Cancer-Codons.git}}
   }
+  
