@@ -28,26 +28,29 @@ DATASET OBTAINED FROM THIS WEBSITE → https://www.ncbi.nlm.nih.gov/--
 ## Results
 
 #### Data Preprocessing
-![boyer-moore](./CERVICAL%20CANCER%20RESULTS/1.PreProcessing/boyer%20moore.JPG)
+![Boyer-Moore](./CERVICAL%20CANCER%20RESULTS/1.PreProcessing/boyer%20moore.JPG)
 
-![kmer](./CERVICAL%20CANCER%20RESULTS/1.PreProcessing/kmer%20indexing.JPG)
+![Kmer Indexing](./CERVICAL%20CANCER%20RESULTS/1.PreProcessing/kmer%20indexing.JPG)
 
-#### Visual 2
-![kmer](./images/visual2.png)
-> Sentence about visualization.
+#### Pattern Matching
+![Approximate Matching](./CERVICAL%20CANCER%20RESULTS/2.Pattern%20Matching/approximate.JPG)
 
-![kmer](./images/visual2.png)
-> Sentence about visualization.
+![Exact Naive Matching](./CERVICAL%20CANCER%20RESULTS/2.Pattern%20Matching/exact%20naive.JPG)
 
-## Recommendations:
+#### Sequence Alignment
+![Local Alignment](./CERVICAL%20CANCER%20RESULTS/2.Pattern%20Matching/approximate.JPG)
 
-More of your own text here
+![Global Alignment](./CERVICAL%20CANCER%20RESULTS/2.Pattern%20Matching/exact%20naive.JPG)
 
+#### Mutation Detection
+![Mutation Percentage](./CERVICAL%20CANCER%20RESULTS/4.RESULTS/results.JPG)
 
-## Limitations & Next Steps
+![Mutation Visualisation](./CERVICAL%20CANCER%20RESULTS/4.RESULTS/Cervical.JPG)
 
-More of your own text here
+## Future Enhancements
 
+➢ Genome Assembly and Sequencing .is emerging technology and incorporates new approaches frequently
+➢ We will be researching and working further on Multiple Sequence Alignments and Chromosomal Aberrations.
 
 ### For further information
 
@@ -55,6 +58,18 @@ Please review the narrative of our analysis in [our jupyter notebook](./PROJECT-
 
 For any additional questions, please contact **shaileshshettyd@gmail.com)
 
+### REFERENCES:
+
+[1] P. Fournier-Viger, J. C. W. Lin, R. U. Kiran, Y. S. Koh, and R. Thomas, "A survey of sequential pattern mining," Data Science and Pattern Recognition, vol. 1(1), pp. 54-77, 2017.
+
+[2.] M. S. Chen, J. S. Park, and P. S. Yu, "Efficient data mining for path traversal patterns," IEEE Transactions on Knowledge and Data Engineering, vol. 10, no. 2, pp. 209-221, 1998.
+
+[3] C. Creighton and S. Hanash, "Mining gene expression databases for association rules," Bioinformatics, vol. 19, no. 1, pp. 79-86, 2003.
+[4] Pritchard L, White JA, Birch PR, and Toth IK (2006) Genome Diagram: a Python package for the visualization of large-scale genomic data. Bioinformatics, 22, 616-617
+
+[5] Cock PJ, Fields CJ, Goto N, Heuer ML and Rice PM (2009) The Sanger FASTQ file format for sequences with quality scores, and the Solexa/Illumina FASTQ variants. Nucleic Acids Res., 38, 1767-1771
+
+[6]. Baeza-Yates, R.; Navarro, G. (June 1996). "A faster algorithm for approximate string matching." In Dan Hirschberg; Gene Myers (eds.). Combinatorial Pattern Matching (CPM'96), LNCS 1075. Irvine, CA. Pp. 1–23.
 
 ##### Repository Structure:
 
