@@ -28,9 +28,9 @@ DATASET OBTAINED FROM THIS WEBSITE → https://www.ncbi.nlm.nih.gov/--
 ## Results
 
 #### Data Preprocessing
-![boyer-moore](./CERVICAL CANCER RESULTS/1.PreProcessing/boyermoore.JPG)
+![boyer-moore](./CERVICAL%20CANCER%20RESULTS/1.PreProcessing/boyer%20moore.JPG)
 
-![kmer](./CERVICAL CANCER RESULTS/1.PreProcessing/kmer indexing.JPG)
+![kmer](./CERVICAL%20CANCER%20RESULTS/1.PreProcessing/kmer%20indexing.JPG)
 
 #### Visual 2
 ![kmer](./images/visual2.png)
