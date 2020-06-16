@@ -54,7 +54,7 @@ DATASET OBTAINED FROM THIS WEBSITE → https://www.ncbi.nlm.nih.gov/--
 
 ### For further information
 
-Please review the narrative of our analysis in [our jupyter notebook](./PROJECT-FINAL.ipynb) or review our [presentation](./PAPER ID--449.pptx)
+Please review the narrative of our analysis in [our jupyter notebook](./PAPER%20IMPLEMENTATION/PROJECT-FINAL.ipynb) or review our [presentation](./PAPER%20ID--449.pptx)
 
 For any additional questions, please contact **shaileshshettyd@gmail.com)
 
