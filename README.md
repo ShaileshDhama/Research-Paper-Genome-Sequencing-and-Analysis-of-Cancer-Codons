@@ -2,6 +2,12 @@
 
 ## Complete Implementation of Various Algorithms related to Bioinformatics,which helped in successful paper presentation in RTEICT-2019.
 
+## Paper from Proceedings were missing because of technical issues from their editorial team.
+
+## Hence the paper was published in an International Journal "IJSRET" under July-2020 Issue.
+
+Link : https://ijsret.com/wp-content/uploads/2020/07/IJSRET_V6_issue4_508.pdf
+
 **First Author**: SHAILESH DHAMA
 
 **Co-Authors** : Prof.Anooja Ali; Prof.Vishwanath Hulipalled
